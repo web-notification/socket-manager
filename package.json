@@ -1,7 +1,7 @@
 {
   "name": "socket-manager",
   "main": "socket-manager.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "simple socket manager",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
