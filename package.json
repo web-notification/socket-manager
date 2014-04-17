@@ -10,11 +10,15 @@
     "socket",
     "socket-manager"
   ],
-  "author": {
-    "name": "ji-tae, kim"
-  },
+  "author": "ji-tae, kim",
   "license": "MIT",
-  "readme": "ERROR: No README data found!",
-  "_id": "socket-manager@0.0.1",
-  "_from": "socket-manager@*"
+  "_from": "socket-manager@*",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/web-notification/socket-manager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/web-notification/socket-manager/issues"
+  },
+  "homepage": "https://github.com/web-notification/socket-manager"
 }
